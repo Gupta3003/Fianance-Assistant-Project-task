@@ -43,7 +43,6 @@ Fallbacks prompt user clarification via voice if retrieval confidence is low.
 ├── /orchestrator/            # Service to route and manage inter-agent communication
 ├── /streamlit_app/           # Streamlit frontend UI with voice & text interface
 ├── /docs/                    # Documentation & AI tool usage logs
-├── Dockerfile                # Containerization config
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This file
 ```
@@ -148,7 +147,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ### Demo Video
 
-[Watch Demo Video](https://yourvideo.url/here)
+[Watch Demo Video]([https://yourvideo.url/here](https://github.com/user-attachments/assets/d8f84034-7a30-4384-a0d3-75e3b8265d33)
 
 ---
 
