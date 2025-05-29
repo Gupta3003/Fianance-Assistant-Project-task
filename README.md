@@ -148,7 +148,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/d8f84034-7a30-4384-a0d3-75e3b8265d3
+[https://github.com/user-attachments/assets/d8f84034-7a30-4384-a0d3-75e3b8265d3](https://github.com/user-attachments/assets/298ebf0a-0d66-46f8-b548-e18b1f89be8f)
 
 ---
 
