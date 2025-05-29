@@ -141,9 +141,10 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ### Screenshots
 
-| Home Screen                            | Market Brief Example                   |
-|--------------------------------------|--------------------------------------|
-| ![Home Screen](docs/screenshots/home_screen.png) | ![Market Brief](docs/screenshots/market_brief.png) |
+| Market Brief Example                  |
+|--------------------------------------|
+|![Market Brief](![Screenshot (966)](https://github.com/user-attachments/assets/3ef9c042-2fd4-42e1-9d50-1078d40555b5)) |
+
 
 ### Demo Video
 
