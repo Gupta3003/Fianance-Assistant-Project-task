@@ -143,12 +143,12 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 | Market Brief Example                  |
 |--------------------------------------|
-|(![Screenshot (966)](https://github.com/user-attachments/assets/3ef9c042-2fd4-42e1-9d50-1078d40555b5)) |
+|![Screenshot (966)](https://github.com/user-attachments/assets/3ef9c042-2fd4-42e1-9d50-1078d40555b5)|
 
 
 ### Demo Video
 
-[Watch Demo Video]([https://yourvideo.url/here](https://github.com/user-attachments/assets/d8f84034-7a30-4384-a0d3-75e3b8265d33)
+([https://yourvideo.url/here](https://github.com/user-attachments/assets/d8f84034-7a30-4384-a0d3-75e3b8265d33)
 
 ---
 
