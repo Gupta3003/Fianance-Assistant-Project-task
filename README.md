@@ -143,7 +143,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 | Market Brief Example                  |
 |--------------------------------------|
-|![Market Brief](![Screenshot (966)](https://github.com/user-attachments/assets/3ef9c042-2fd4-42e1-9d50-1078d40555b5)) |
+|(![Screenshot (966)](https://github.com/user-attachments/assets/3ef9c042-2fd4-42e1-9d50-1078d40555b5)) |
 
 
 ### Demo Video
